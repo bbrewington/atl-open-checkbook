@@ -10,3 +10,6 @@
 * Cost and recipient of the money for the automatic trash cans at the airport
 * How much the city is saving by denying refueling the temporary lights at Walker Park court due to COVID?
 * Do the vendors in "ledger.csv" match the vendors in "vendors.csv"?
+* How many vendors have invoiced a single time?
+  - who are they and for what types of goods & services?
+* Analyze expenditures for transportation bond projects

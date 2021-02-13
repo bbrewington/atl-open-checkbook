@@ -11,5 +11,6 @@ I'm assuming this is an individual effort, and glad to collaborate to anyone who
   - Data page: https://checkbook.atlantaga.gov/#!/view-data
     - City Expenditures: https://checkbook.atlantaga.gov/api/ledger.csv
       - **NOTE**: as of 2021-02-06, this is unavailable.  Brent Brewington is following up with the open checkbook help email & City Councilwoman Jennifer Ide (on Finance/Executive committee)
+        - As of 2021-02-13: didn't get a response from help email.  Following up with ATL Chief Financial Officer Roosevelt Council, Jr.
     - Vendors: https://checkbook.atlantaga.gov/api/vendor.csv
   - Employee Credit Card Transactions: https://atlanta.data.socrata.com/Finance/Employee-Credit-Card-Data/whg7-uci9/data

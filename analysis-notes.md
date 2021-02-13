@@ -13,3 +13,5 @@
 * How many vendors have invoiced a single time?
   - who are they and for what types of goods & services?
 * Analyze expenditures for transportation bond projects
+* Are there project or procurement ID's in descriptions that can be linked to those data sources?
+  - some examples here: https://checkbook.atlantaga.gov/#!/year/All%20Years/explore/0-/vendor_name/TYLER+TECHNOLOGIES,+INC./1-/department

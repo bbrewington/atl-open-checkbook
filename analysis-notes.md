@@ -1,6 +1,5 @@
 # Analysis Questions & Ideas to Explore
-* Create a data dictionary
-* Basic exploratory data analysis (a lot of this is already on the website, but include in this github repo for reference & reproducibility)
+* Basic exploratory data analysis
 * Top vendors with the most frequent small dollar amount transactions
 * Top vendors who receive payments across more than one department
 * Most popular vendor name by payment amount or ordinal day of month
@@ -15,6 +14,10 @@
 * Analyze expenditures for transportation bond projects
 * Are there project or procurement ID's in descriptions that can be linked to those data sources?
   - some examples here: https://checkbook.atlantaga.gov/#!/year/All%20Years/explore/0-/vendor_name/TYLER+TECHNOLOGIES,+INC./1-/department
+
+# Analysis Questions Done
+* Create a data dictionary
+  - see file "data/data-dictionary.md"
 
 ### Data Access Issues
 - Issue with downloading City Expenditures: https://checkbook.atlantaga.gov/api/ledger.csv
